@@ -12,6 +12,5 @@ nos algorithmes.
 # Démonstration 
 [*!!! Demo !!!!*] (https://www.linkedin.com/feed/update/urn:li:activity:6360196411849609216/)
 <p align="center">
-  <img src="https://imgur.com/wFI7uDv"/>
+  <img src="https://i.imgur.com/wFI7uDv.jpg"/>
 </p>
-/Users/mac/Desktop/Capture d’écran 2018-02-16 à 19.21.02.png
