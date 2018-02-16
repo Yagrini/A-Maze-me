@@ -10,5 +10,8 @@ importante (dimensions du labyrinthe). Tous les algorithmes et structures de don
 particulièrement une représentation graphique permettant une bonne compréhension du problème et de sa résolution en animant 
 nos algorithmes. 
 # Démonstration 
-[*!!! https://www.linkedin.com/feed/update/urn:li:activity:6360196411849609216/ !!!!*]
+[*!!! Demo !!!!*] (https://www.linkedin.com/feed/update/urn:li:activity:6360196411849609216/)
+<p align="center">
+  <img src="https://imgur.com/wFI7uDv"/>
+</p>
 /Users/mac/Desktop/Capture d’écran 2018-02-16 à 19.21.02.png
