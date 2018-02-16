@@ -1,5 +1,4 @@
 # A-Maze-me
-Génération et Résolution des labyrinthes en utilisant JavaFX et les algorithmes classiques.
 Ci-dessus notre projet du semestre. 
 C'est une application desktop,  intitulée A-Maze Me, développée à l'aide du langage de programmation orienté objet JAVA.
 Ce projet nous a permis d'appliquer et de mettre en œuvre la manipulation et le parcours de graphes ainsi que l'implémentation
